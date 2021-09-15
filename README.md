@@ -4,9 +4,9 @@ I have created Machine Learning Model With K-Means Clustering for Live Selling P
 
 In this I've used Python’s Famous libraries like [Numpy](), [Pandas](), [Matplotlib](), [Seaborn](), and [Sklearn]() for Analysis, Vizualization and Model Development.
 
-I've used [Jupyter Notebook]() for coding!
+I've used [Jupyter Notebook](https://jupyter.org/) for coding!
 
-**Download the dataset from [here]()!**
+**Download the dataset from [here](https://github.com/Anuragtsl/ML-Live_Selling_K-Means_Clustering/blob/main/Live.csv)!**
 
 # About Data
 
