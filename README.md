@@ -31,13 +31,13 @@ Research Paper: Nassim Dehouche and Apiradee Wongkitrungrueng. Facebook Live as 
 * Hence, we can conclude that k=4 being the optimal number of clusters.
 
 
-***Follow [notebook]() for more!!***
+***Follow [notebook](https://github.com/Anuragtsl/ML-Live_Selling_K-Means_Clustering/blob/main/Live%20Selling%20K-Means%20Clustering.ipynb) for more!!***
 
 # Preview
 
-![Image1]()
+![Image1](https://github.com/Anuragtsl/ML-Live_Selling_K-Means_Clustering/blob/main/Images/1.png)
 
-![Image2]()
+![Image2](https://github.com/Anuragtsl/ML-Live_Selling_K-Means_Clustering/blob/main/Images/2.png)
 
 
 #Njoy!!
