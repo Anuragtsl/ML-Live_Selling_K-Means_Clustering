@@ -1,3 +1,43 @@
 # ML-Live_Selling_K-Means_Clustering
 
-Will be uploaded soon!!
+I have created Machine Learning Model With K-Means Clustering for Live Selling Prediction.
+
+In this I've used Python’s Famous libraries like [Numpy](), [Pandas](), [Matplotlib](), [Seaborn](), and [Sklearn]() for Analysis, Vizualization and Model Development.
+
+I've used [Jupyter Notebook]() for coding!
+
+**Download the dataset from [here]()!**
+
+# About Data
+
+This dataset has been obtained from UCI ML Repository. https://archive.ics.uci.edu/ml/datasets/Facebook+Live+Sellers+in+Thailand
+
+Live selling is becoming increasingly popular in Asian countries. Small vendors can now reach a wider audience and connect with many customers.
+
+Research Paper: Nassim Dehouche and Apiradee Wongkitrungrueng. Facebook Live as a Direct Selling Channel, 2018, Proceedings of ANZMAC 2018: The 20th Conference of the Australian and New Zealand Marketing Academy. Adelaide (Australia), 3-5 December 2018.
+
+# Results and conclusion
+
+* In this project, I have implemented the most popular unsupervised clustering technique called K-Means Clustering.
+
+* I have applied the elbow method and find that k=2 (k is number of clusters) can be considered a good number of cluster to cluster this data.
+
+* I have find that the model has very high inertia of 237.7572. So, this is not a good model fit to the data.
+
+* I have achieved a weak classification accuracy of 1% with k=2 by our unsupervised model.
+
+* So, I have changed the value of k and find relatively higher classification accuracy of 62% with k=4.
+
+* Hence, we can conclude that k=4 being the optimal number of clusters.
+
+
+***Follow [notebook]() for more!!***
+
+# Preview
+
+![Image1]()
+
+![Image2]()
+
+
+#Njoy!!
